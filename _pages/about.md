@@ -17,8 +17,4 @@ Sep. 2023: Started my study for Ms. degree in [Health Informatics](https://phsed
 
 Jun. 2023: Graduated from Liverpool University and XJTLU with a Bsc(Hons) degree in [Financial Computing](https://www.liverpool.ac.uk/courses/2024/financial-computing-bsc-hons) from Department Of Computer Science! ☺️
 
-Apr. 2023: Concluded my 20-day European trip 🚞, during which I visited France🇫🇷, Norway🇳🇴, Switzerland🇨🇭, Italy🇮🇹, and Spain🇪🇸.[Photo](https://drive.google.com/drive/folders/1LhOaBBxEXNYoFMoYoHcLLFUIQNqaR5en?usp=share_link))
-
-Contact Me
-======
-[Email](mailto:yid4004@med.cornell.edu) / [Instagram](https://www.instagram.com/dingyi2042/) / [LinkedIn](https://www.linkedin.com/in/yi-ding-854002291/)
+Apr. 2023: Concluded my 20-day European trip 🚞, during which I visited France🇫🇷, Norway🇳🇴, Switzerland🇨🇭, Italy🇮🇹, and Spain🇪🇸. [Photo](https://drive.google.com/drive/folders/1LhOaBBxEXNYoFMoYoHcLLFUIQNqaR5en?usp=share_link)
