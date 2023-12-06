@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi! I am a Health Informatics student at Cornell University with a background in Financial Computing from XJTLU. Skilled in MySQL, Python etc. with a keen interest in leveraging these tools for business analytics. Passionate about integrating technology with healthcare and finance to drive impactful decisions and innovations. Seeking opportunities to contribute and grow in the realm of business analytics. 
-You can find my CV here:[Yi Ding's CV](/Users/yiding/Desktop/作业夹/Yi Ding(CV).pdf)
+You can find my CV here:[Yi Ding's CV]
 
 Recent News
 ======
@@ -18,3 +18,7 @@ Sep. 2023: Started my study for Ms. degree in [Health Informatics](https://phsed
 Jun. 2023: Graduated from Liverpool University and XJTLU with a Bsc(Hons) degree in [Financial Computing](https://www.liverpool.ac.uk/courses/2024/financial-computing-bsc-hons) from Department Of Computer Science! ☺️
 
 Apr. 2023: Concluded my 20-day European trip 🚞, during which I visited France🇫🇷, Norway🇳🇴, Switzerland🇨🇭, Italy🇮🇹, and Spain🇪🇸.[Photo]
+
+Contact Me
+======
+[Email](mailto:yid4004@med.cornell.edu) / [Instagram] (https://www.instagram.com/dingyi2042/) / [LinkedIn](https://www.linkedin.com/in/yi-ding-854002291/)
