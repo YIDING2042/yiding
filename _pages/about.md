@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Be Myself"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I am a Health Informatics student at Cornell University with a background in Financial Computing from XJTLU. Skilled in MySQL, Python etc. with a keen interest in leveraging these tools for business analytics. Passionate about integrating technology with healthcare and finance to drive impactful decisions and innovations. Seeking opportunities to contribute and grow in the realm of business analytics. 
+You can find my CV here:[Yi Ding's CV](/Users/yiding/Desktop/作业夹/Yi Ding(CV).pdf)
 
 A data-driven personal website
 ======
