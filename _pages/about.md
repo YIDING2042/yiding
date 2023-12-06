@@ -13,7 +13,9 @@ You can find my CV here:[Yi Ding's CV](/Users/yiding/Desktop/作业夹/Yi Ding(C
 
 Recent News
 ======
-June 2023: Graduated from Liverpool University and XJTLU with a Bsc(Hons) degree in [Financial Computing](https://www.liverpool.ac.uk/courses/2024/financial-computing-bsc-hons) from department Of Computer Science! ☺️
+Sep. 2023: Started my study for Ms. degree in [Health Informatics](https://phsedu-info.weill-cornell.org/?utm_source=adwords&utm_medium=cpc&utm_campaign=learnmore&device=c&network=g&location=9004077&utm_term=cornell%20health%20informatics&matchtype=e&gclid=Cj0KCQiAsburBhCIARIsAExmsu4lLNa7ZxfiUAEs-e0RzFwG-WjP-wg7ovGRo-xNEFsZUR3uUerGoakaAhf_EALw_wcB) at Weill Cornell Medicine.
+Jun. 2023: Graduated from Liverpool University and XJTLU with a Bsc(Hons) degree in [Financial Computing](https://www.liverpool.ac.uk/courses/2024/financial-computing-bsc-hons) from Department Of Computer Science! ☺️
+Apr. 2023: Concluded my 20-day European trip 🚞, during which I visited France🇫🇷, Norway🇳🇴, Switzerland🇨🇭, Italy🇮🇹, and Spain🇪🇸.[Photo]
 
 
 Getting started
