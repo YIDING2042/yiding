@@ -21,4 +21,4 @@ Apr. 2023: Concluded my 20-day European trip 🚞, during which I visited France
 
 Contact Me
 ======
-[Email](mailto:yid4004@med.cornell.edu) / [Instagram] (https://www.instagram.com/dingyi2042/) / [LinkedIn](https://www.linkedin.com/in/yi-ding-854002291/)
+[Email](mailto:yid4004@med.cornell.edu) / [Instagram](https://www.instagram.com/dingyi2042/) / [LinkedIn](https://www.linkedin.com/in/yi-ding-854002291/)
